@@ -1,0 +1,74 @@
+[
+{
+ "bookId":1,
+ "user":"Ali",
+ "rating":5,
+ "comment":"Excellent livre pour comprendre JavaScript."
+},
+{
+ "bookId":1,
+ "user":"Sara",
+ "rating":4,
+ "comment":"Très bien expliqué, parfait pour les débutants !"
+},
+{
+ "bookId":1,
+ "user":"Karim",
+ "rating":4,
+ "comment":"Bonne progression, exemples concrets."
+},
+{
+ "bookId":2,
+ "user":"Karim",
+ "rating":5,
+ "comment":"Le meilleur livre pour CSS !"
+},
+{
+ "bookId":2,
+ "user":"Nadia",
+ "rating":4,
+ "comment":"Flexbox et Grid enfin clairs pour moi."
+},
+{
+ "bookId":3,
+ "user":"Omar",
+ "rating":4,
+ "comment":"Très complet sur HTML5, je recommande."
+},
+{
+ "bookId":3,
+ "user":"Leila",
+ "rating":3,
+ "comment":"Bien mais parfois trop détaillé."
+},
+{
+ "bookId":4,
+ "user":"Youssef",
+ "rating":5,
+ "comment":"Bootstrap n'a plus de secrets pour moi !"
+},
+{
+ "bookId":4,
+ "user":"Fatima",
+ "rating":4,
+ "comment":"Très pratique et bien structuré."
+},
+{
+ "bookId":5,
+ "user":"Hassan",
+ "rating":5,
+ "comment":"expliqué simplement, j'adore !"
+},
+{
+ "bookId":6,
+ "user":"Amina",
+ "rating":5,
+ "comment":"React devient enfin logique avec ce livre."
+},
+{
+ "bookId":6,
+ "user":"Mehdi",
+ "rating":4,
+ "comment":"Les hooks sont très bien expliqués."
+}
+]

@@ -1,0 +1,35 @@
+[
+{
+"id":1,
+"title":"JavaScript Guide",
+"author":"chris Minnick",
+"image":"images/image2.png",
+"description":"Un guide complet pour apprendre JavaScript moderne.",
+"rating":4.2
+},
+{
+"id":2,
+"title":"CSS Mastery",
+"author":"John Doe",
+"image":"images/image3.png",
+"description":"Apprendre HTML et CSS facilement.",
+"rating":4.5
+},
+{
+"id":3,
+"title":"HTMLS &Web Design",
+"author":"John Doe",
+"image":"images/image4.png",
+"description":"Un guide complet pour apprendre HTMLS &Web Design.",
+"rating":4.1
+}, 
+{
+"id":4,
+"title":"larning Bootstrap",
+"author":"John Doe",
+"image":"images/image5.png",
+"description":"Un guide complet pour apprendre  Bootstrap.",
+"rating":4.3
+}
+
+]

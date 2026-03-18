@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  background: rgb(15, 108, 169);
+  color: rgb(247, 237, 237);
+  text-align: center;
+  padding: 5px 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+header h2 {
+text-align: left;
+  
+}
+.card{
+transition:0.3s;
+border-radius:5px;
+margin: 10px;
+}
+
+.card:hover{
+transform:scale(1.05);
+box-shadow:0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card img{
+height:250px;
+object-fit:cover;
+}
+.voir-details {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+}
+.bouton {
+   background-color: #1f74c4;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px ;
+    border-radius: 6px;
+    color: white;
+    transition: 0.3s;
+}
+#utilisateur , #rating ,#comment{
+  width: 300PX;
+    margin: auto;
+    background-color: #ffffff;
+    padding: 9px;
+    border-radius: 10px;
+    
+}
+body {
+  background-image: url(../images/image1.png);
+  background-size: cover;
+  background-position: center;
+}
+ /* Réduire la colonne */
+.col-md-4 {
+  max-width: 250px;
+}
+
+/* Réduire la carte */
+.card {
+  width: 220px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Réduire l'image */
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+
+/* Réduire le texte */
+.card-body h5 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.card-body p {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+/* Réduire le bouton */
+.voir-details {
+  font-size: 12px;
+  padding: 5px 12px;
+}
+.footer{
+  color: rgb(0, 0, 0);
+}
+.barre h1 {
+  font-family: 'Times New Roman', Times, serif;
+;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+}
+
+

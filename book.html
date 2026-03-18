@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>details livre </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+ <link rel="icon" type="image/x-icon"  href="images/image6.png">
+</head>
+<body>
+    
+    <!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Détails livre</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<div class="container mt-4">
+
+  <div class="row">
+
+    <!-- Colonne gauche : détails du livre -->
+    <div class="col-md-6" id="book-details"></div>
+
+    <!-- Colonne droite : formulaire -->
+    <div class="col-md-6">
+
+      <h3>Commentaires</h3>
+      <div id="reviews"></div>
+
+      <h4>Ajouter un commentaire</h4>
+
+      <form id="reviewForm">
+        <input type="text" id="utilisateur" placeholder="Votre nom" class="form-text">
+        <input type="text" id="rating" min="1" max="5" placeholder="Votre note" class="form-number">
+        <textarea id="comment" placeholder="Votre Commentaire" class="form-comment"></textarea>
+        <button class="bouton">Envoyer</button>
+      </form>
+
+    </div>
+
+  </div>
+
+</div>
+
+<script src="js/book.js"></script>
+
+</body>
+</html>
